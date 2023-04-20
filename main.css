@@ -32,7 +32,7 @@ h2 {
 
 /* ---- admin section start----  */
 .hero {
-  background-image: url(images/header_img.png);
+  background-image: url(/images/header_img.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -321,7 +321,7 @@ nav .menu-right ul a {
   background-image: url(images/PeaceOfMind.jpg);
 }
 .phone {
-  background-image: url(images/phone.png);
+  background-image: url(/images/phone.jpg);
   margin-bottom: 70px;
 }
 
@@ -329,7 +329,7 @@ nav .menu-right ul a {
 
 /* ----text img section start--- */
 .test-bg {
-  background-image: url(images/Red.png);
+  background-image: url(/images/Red.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
